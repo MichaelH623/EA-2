@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2850e6c63f02e5546bb039625d0a18cf, type: 3}
+  m_Name: Saphire_Ore
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Saphire Ore
+  icon: {fileID: 732897096, guid: 7d30b3a2598eed643bb4b73fbdec3143, type: 3}
+  worldPrefab: {fileID: 6279159465654699051, guid: 7e1a765626ef45248ad4727c7e4b6db4, type: 3}
+  maxStack: 100
+  itemType: 7
